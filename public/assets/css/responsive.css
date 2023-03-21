@@ -1,0 +1,49 @@
+
+/* media query */
+
+@media (max-width:767px){
+  .header-text h1 {
+    font-size: 25px;
+    line-height: 30px;
+    color: #222222
+}
+.header-text p { padding: 36px 0px;}
+.btn-gogle li{width: 50%;}
+.btn-gogle {margin-bottom:30px;}
+.large-img-pos { position: static;}
+.right-space, .left-space { padding-right: 0px;padding-left: 0px;}
+.pad-r p{padding-bottom: 20px;}
+.footer-social {padding-top: 5px; margin-bottom: 30px;}
+.subscribe-form{padding-top:20px;}
+.test-sider-sec { padding-bottom: 50px;}
+.testimonial-sec {padding: 50px 0px;}
+.pet-sec h2 {
+  font-size: 29px;
+  line-height: 36px;
+  padding-bottom: 35px;
+}
+.card-sec {padding: 50px 0px;}
+.down-btn{display:none;}
+.content-sec2 {width: 100%;padding: 30px;}
+.flag-btn {margin-left: 0px !important;}
+.sel-head {font-size: 30px;line-height: 45px;}
+.container-wait {width: 80%;}
+.work-head {font-size: 38px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
